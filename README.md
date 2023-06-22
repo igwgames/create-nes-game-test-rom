@@ -1,6 +1,8 @@
 # create-nes-game-test-rom
 
-Enter a description of your game here. And maybe more documentation too, if you like.
+Test rom to make sure things like CI work with create-nes-game. Not actively used, but feel free to look at it as an example!
+
+Otherwise, please take a look at [create-nes-game](https://cppchriscpp.github.io/create-nes-game/), the main repository.
 
 # How to compile
 
