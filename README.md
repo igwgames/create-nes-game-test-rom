@@ -2,16 +2,16 @@
 
 Test rom to make sure things like CI work with create-nes-game. Not actively used, but feel free to look at it as an example!
 
-Otherwise, please take a look at [create-nes-game](https://cppchriscpp.github.io/create-nes-game/), the main repository.
+Otherwise, please take a look at [create-nes-game](https://create-nes-game.nes.science/), the main repository.
 
 # How to compile
 
-This rom uses [create-nes-game](https://cppchriscpp.github.io/create-nes-game/) to build. Download a copy
+This rom uses [create-nes-game](https://create-nes-game.nes.science/) to build. Download a copy
 of that to start.
 
 ## First time setup
 
-1. Download [create-nes-game](https://cppchriscpp.github.io/create-nes-game/), if you haven't already.
+1. Download [create-nes-game](https://create-nes-game.nes.science/), if you haven't already.
 2. (Optional) Run `./create-nes-game install` to install the tool globally
 3. Run `create-nes-game download-dependencies` to download dependencies of this game into this folder
 4. Proceed to the next section to build the rom.
@@ -91,4 +91,4 @@ Next time you run `create-nes-game build` your new music will be added to the ga
 
 -----
 
-This rom uses [create-nes-game](https://cppchriscpp.github.io/create-nes-game/)!
+This rom uses [create-nes-game](https://create-nes-game.nes.science/)!

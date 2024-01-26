@@ -1,5 +1,5 @@
 // This test file is run using nes-test. 
-// Check out the documentatation here: https://cppchriscpp.github.io/nes-test/
+// Check out the documentatation here: https://gh.nes.science/nes-test/
 // The tool will automatically run the tests in every file in this directory, so feel free to spread them out!
 const NesRomFile = require('nes-test').NesRomFile;
 const NesEmulator = require('nes-test').NesEmulator;
